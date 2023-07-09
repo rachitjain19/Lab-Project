@@ -1,1 +1,1 @@
-# Lab-Project
+# AI Lab Project
